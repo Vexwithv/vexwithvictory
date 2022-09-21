@@ -1,0 +1,25 @@
+<style>
+        
+        p{margin-left: 200px;
+        font-size: 20px;
+    border: 2px solid green;
+    border-radius: 30px;
+    background-image: url(https://th.bing.com/th/id/R.29040d41a62c0b9bbf63ce12a82c291d?rik=3mHU2KMAjuEzcw&riu=http%3a%2f%2fresumiendolo.com%2fwp-content%2fuploads%2f2018%2f03%2fMinotauro-1024x768.jpg&ehk=%2bCVI13KnF2s0Cp9bjnpgXyRyAvqQHrrVx7diyRxIlN4%3d&risl=&pid=ImgRaw&r=0);
+       padding: 20px;
+
+}  
+
+
+div{
+    width: 100%;
+    height: 200px;
+    background-image: url(https://th.bing.com/th/id/R.058fab0aafbade4d94af28abb780b499?rik=oIyLNonQwSl7og&riu=http%3a%2f%2fwww.passalacqua.com.br%2fimagens%2fuploads%2fproduto%2f2211%2fimg%2f20190314154144qFQOpMB5hM.jpg&ehk=LvmLS7mCd3orIVj%2fGtnYCq3o%2bhbb4XOVtdi8wgbXsKw%3d&risl=&pid=ImgRaw&r=0);
+}
+        img{
+            WIDTH: 200px;
+            height: 200px
+            
+        }
+
+
+    </style>
